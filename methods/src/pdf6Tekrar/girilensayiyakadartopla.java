@@ -1,3 +1,5 @@
+package pdf6Tekrar;
+
 import java.util.Scanner;
 
 public class girilensayiyakadartopla {
