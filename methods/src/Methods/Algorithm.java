@@ -1,4 +1,4 @@
-package pdf6odev;
+package Methods;
 
 import java.util.Random;
 import java.util.Scanner;

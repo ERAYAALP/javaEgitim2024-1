@@ -1,4 +1,4 @@
-package İlkKonular;
+package Methods;
 
 import java.util.Random;
 import java.util.Scanner;

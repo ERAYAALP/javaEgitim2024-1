@@ -1,4 +1,4 @@
-package İlkKonular;
+package Methods;
 
 public class methods3 {
     public static void main(String[] args) {

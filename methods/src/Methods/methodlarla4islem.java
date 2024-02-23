@@ -1,4 +1,4 @@
-package pdf6Tekrar;
+package Methods;
 
 import java.util.Scanner;
 
